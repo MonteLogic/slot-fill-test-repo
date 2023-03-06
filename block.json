@@ -1,0 +1,12 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 2,
+	"name": "create-block/slot-fill-test-repo",
+	"version": "0.1.0",
+	"title": "Slot Fill Test Repo",
+	"category": "widgets",
+	"textdomain": "slot-fill-test-repo",
+	"editorScript": "file:./build/index.js",
+	"editorStyle": "file:./build/index.css",
+	"style": "file:./build/style-index.css"
+}
